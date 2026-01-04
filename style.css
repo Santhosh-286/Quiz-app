@@ -96,3 +96,9 @@ body {
   display: none; /* hidden until final */
   z-index: -1; /* stays behind the quiz */
 }
+@media (max-width: 480px) {
+  .logo img {
+    width: 100%;
+    height: auto;
+  }
+}
