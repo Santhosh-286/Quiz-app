@@ -31,8 +31,10 @@ body {
 }
 
 .quiz h2 {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
 }
 
 .btn {
@@ -102,3 +104,4 @@ body {
     height: auto;
   }
 }
+
